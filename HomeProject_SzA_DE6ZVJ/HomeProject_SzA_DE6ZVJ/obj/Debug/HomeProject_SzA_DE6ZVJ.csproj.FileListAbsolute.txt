@@ -1,0 +1,7 @@
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\bin\Debug\HomeProject_SzA_DE6ZVJ.exe.config
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\bin\Debug\HomeProject_SzA_DE6ZVJ.exe
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\bin\Debug\HomeProject_SzA_DE6ZVJ.pdb
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\obj\Debug\HomeProject_SzA_DE6ZVJ.csproj.AssemblyReference.cache
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\obj\Debug\HomeProject_SzA_DE6ZVJ.csproj.CoreCompileInputs.cache
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\obj\Debug\HomeProject_SzA_DE6ZVJ.exe
+C:\Users\Armand\Desktop\HomeProject_SzA_DE6ZVJ\HomeProject_SzA_DE6ZVJ\obj\Debug\HomeProject_SzA_DE6ZVJ.pdb
